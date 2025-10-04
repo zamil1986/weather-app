@@ -1,2 +1,2 @@
-# Resolusi-jihad
-Santri Pembela Kyai
+# Weather App
+to find out the weather conditions in an area
